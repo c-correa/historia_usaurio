@@ -1,6 +1,8 @@
 namespace SOneWeb.Application.Interfaces
 {
-    public interface IBaseService<TDto> where TDto : class
+    public interface IBaseService<TDto, TEntity>
+        where TDto : class
+        where TEntity : class
     {
         Task<IEnumerable<TDto>> GetAllAsync();
         Task<TDto?> GetByIdAsync(int id);

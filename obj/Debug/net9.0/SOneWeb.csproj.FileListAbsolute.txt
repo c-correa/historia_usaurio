@@ -169,3 +169,10 @@
 /home/Coder/ccorrea/entregable_v2/SOneWeb/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /home/Coder/ccorrea/entregable_v2/SOneWeb/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /home/Coder/ccorrea/entregable_v2/SOneWeb/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/Coder/ccorrea/entregable_v2/SOneWeb/bin/Debug/net9.0/AutoMapper.dll
+/home/Coder/ccorrea/entregable_v2/SOneWeb/bin/Debug/net9.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/Coder/ccorrea/entregable_v2/SOneWeb/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/Coder/ccorrea/entregable_v2/SOneWeb/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/Coder/ccorrea/entregable_v2/SOneWeb/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/Coder/ccorrea/entregable_v2/SOneWeb/bin/Debug/net9.0/Microsoft.Extensions.Identity.Core.dll
+/home/Coder/ccorrea/entregable_v2/SOneWeb/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll

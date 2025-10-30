@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SOneWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9680b0320f765fce6ab49fc8a532dc64ecbd402c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94314f4edf367ba4731e49b3b1041e2a99853b52")]
 [assembly: System.Reflection.AssemblyProductAttribute("SOneWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SOneWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

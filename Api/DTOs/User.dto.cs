@@ -5,13 +5,10 @@ namespace SOneWeb.Api.DTOs
 {
     public class UserCreateDto
     {
-        [Required]
-        [Column("first_name")]
-        public int FirtsName { get; set; }
-
-        [Required]
-        [Column("last_name")]
-        public int LastName { get; set; }
+        public string FirstName { get; set; } = null!;
+        public string LastName { get; set; } = null!;
+        public string Email { get; set; } = null!;
+        public string Password { get; set; } = null!;
     }
 
     public class UserReadDto
